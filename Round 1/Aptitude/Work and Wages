@@ -1,0 +1,42 @@
+IMPORTANT AREAS
+
+1. If a person can do a piece of work in ‘n’ days, then in one day, the person will do ‘1/n’ work. Conversely, if the person does ‘1/n’ work in one day, the person will require ‘n’
+days to finish the work.
+
+2. ** In questions where there is a comparison of work and efficiency, we use the formula
+M1 D1 H1 E1 / W1 = M2 D2 H2 E2 / W2, where
+M = Number of workers
+D = Number of days
+H = Number of working hours in a day
+E = Efficiency of workers
+W = Units of work
+
+3. In case we have more than one type of workers, then the formula modifies to
+∑(Mi Ei) D1 H1 / W1 = ∑(Mj Ej) D2 H2 / W2, where ‘i’ and ‘j’ may vary as per the number of workers.
+
+4. If a person A is ‘n’ times more efficient than person B, then
+Ratio of work done by A and B in one day (Ratio of efficiencies) = n : 1
+Ratio of time taken by A and B = 1 : n
+
+5. *** Total work = No. of Days x Efficiency
+
+6. If a group of people are given salary for a job they do together, their individual salaries are in the ratio of their individual efficiencies if they work for same number of 
+days. Otherwise, salaries are divided in the ratio of units of work done.
+
+7. ** If A alone can do a work in x days, and B alone can do in y days Total work=LCM(x,y)
+
+SOME TRICKY PROBLEMS
+
+Q If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:
+ans Let the amount of work 1 man can do in 1 day be x and the amount of work 1 boys can do in 1 day be y. Then, 6x + 8y = 1/10 and 26x + 48y = ½. Solving these two equations, 
+    we get: x = 1/100 and y = 1/200. Amount of work done by 15 men and 20 boys in 1 day = 15/100 + 20/200 = ¼. Therefore, the answer is 4 days
+    
+Q 3 men and 4 women can complete a work in 10 days by working 12 hours a day. 13 men and 24 women can do the same work by working same hours a day in 2 days. How much time would
+12 men and 1 women working same hours a day will take to complete the whole work?
+ans Here, we need to apply the formula ∑(Mi Ei) D1 H1 / W1 = ∑(Mj Ej) D2 H2 / W2, where ∑(Mi Ei) = (3 x m) + (4 x w) ∑(Mj Ej) = (13 x m) + (24 x w), where 'm' is the efficiency
+of each man and 'w' is the efficiency of each woman D1 = 10 days D2 = 2 days H1 = 12 hours H2 = 12 hours W1 = W2 = Work to be done   
+So, we have (3m + 4w) x 10 x 12 = (13m + 24w) x 2 x 12 => 15m + 20w = 13m + 24w => 2m = 4w => m = 2w => m : w = 2 : 1 Therefore, ratio of efficiency of man and woman = 2 : 1 
+If the constant of proportionality be 'k', Efficiency of each man = m = 2k Efficiency of each woman = w = k   Now, we re-apply the same formula.
+∑(Mi Ei) D1 H1 / W1 = ∑(Mj Ej) D2 H2 / W2, where ∑(Mi Ei) = (3 x m) + (4 x w) ∑(Mj Ej) = (12 x m) + (1 x w) D1 = 10 days D2 = Days requires by 12 men and 1 woman H1 = 12 hours 
+H2 = 12 hours W1 = W2 = Work to be done   So, we have (3m + 4w) x 10 x 12 = (12m + w) x D2 x 12 => 30m + 40w = (12m + w) x D2 => 60k + 40k = (24k + k) x D2 => 100k = 25k x D2 => D2 = 4 
+Therefore, 12 men and 1 woman would require 4 days to complete the work.
