@@ -1,0 +1,50 @@
+Trains
+# If two trains are moving in same direction with speeds a km / hr and b km / hr, then their relative speed would be |a – b| km / hr.
+# If two trains are moving in different directions, i.e., coming towards each other or going away from each other, with speeds a km / hr and b km / hr, then their relative 
+  speed would be (a + b) km / hr.
+# Time taken by a train, ‘t’ meters long, to pass a stationary object of length ‘l’ meters would be the time taken by the train to travel ‘t + l’ meters. For example, to cover 
+  a platform of 800 m, a train of length 200 m moving at the speed of 10 m / s would be the time taken by the train to cover 800 + 200 = 1000 m at the speed of 10 m / s, 
+  i.e., 1000 / 10 = 100 s.
+# To pass a pole or a man or a post (or any stationary object with negligible length as compared to the length of the train, like if the train is 500 m long and a pole is 1 m 
+  in length), the time taken by the train would be the time it takes to travel the length of the train. For example, if a train of length 100 m is moving at the speed of
+  10 m / s, it would take 100 / 10 = 10 s to pass a pole / man / post.
+# If two trains of lengths L1 and L2 are moving in the same direction with speeds S1 and S2, then the time required by faster train to overtake the slower train would be the
+  time taken to cover an equivalent distance of L1 + L2, with relative speed |S1 – S2|, i.e., Time = (L1 + L2) / |S1 – S2|.
+# if two trains of lengths L1 and L2 are moving in opposite directions with speeds S1 and S2, then the time required by the trains to cross each other completely would be the
+  time taken to cover an equivalent distance of L1 + L2, with relative speed (S1 + S2), i.e., Time = (L1 + L2) / (S1 + S2).
+# If two trains started moving towards each other at the same time with speeds S1 and S2 respectively and after meeting, they take ‘T1’ and ‘T2’ seconds respectively, 
+  then S1 : S2 = T21/2 : T11/2
+
+Boats and Streams
+# If the boat is moving in the direction of the stream, it is said to be going downstream. And if the boat is moving opposite to the direction of stream, it is said to be
+  going upstream.
+# If the speed of boat in still water is B km / hr and speed of the stream is S km / hr,
+# Speed Upstream = B – S km / hr
+# Speed Downstream = B + S km / hr
+# If the speed upstream is U km / hr and speed downstream is D km / hr,
+# Speed of boat in still water = 0.5 x (D + U) km / hr
+# Speed of stream = 0.5 x (D – U) km / hr
+
+some tricky problems
+
+Question: A non – stop train started from Delhi towards Mumbai and at the same time, another non – stop train started from Mumbai towards Delhi. If after meeting in Bhopal 
+   they took 9 and 16 hours respectively to reach their destinations, find the speed of the train that started from Delhi, given that the speed of the train that started from
+   Mumbai was moving at a speed of 90 km / hr.
+Solution : We know that for two trains starting at the same time, S1 : S2 = T21/2 : T11/2
+Here, S2 = 90 km / hr
+T1 = 9  hrs
+T2 = 16  hrs
+=> S1 : 90 = 4 : 3
+=> S1 = 120 km / hr
+Therefore, speed of train that started from Delhi = 120 km / hr
+
+Question 12 : A racer can row a boat 30 km upstream and 44 km downstream in 10 hours. Also, he can row 40 km upstream and 55 km downstream in 13 hours. Find the speed of the
+    boat in still water and speed of the stream.
+Solution : Let the speed upstream be U km / hr and speed downstream be D km / hr.
+We know that Distance / Speed = Time
+=> (30 / U) + (44 / D) = 10 and (40 / U) + (55 / D) = 13
+Solving the above pair of linear equations, we get
+D = 11 km / hr
+U = 5 km / hr
+Therefore, Speed of boat in still water = 0.5 x (D + U) km / hr = 0.5 x (11 + 5) = 8 km / hr
+Also, speed of the stream = 0.5 x (D – U) km / hr = 0.5 x (11 – 5) = 3 km / hr
