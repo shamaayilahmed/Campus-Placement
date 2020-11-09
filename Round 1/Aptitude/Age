@@ -1,0 +1,43 @@
+Problems on ages basically use formulae from Algebra and do not require any special formula. It is like a question type of algebra.
+
+Sample Problems
+Question 1 : A’s age after 15 years would be equal to 5 times his age 5 years ago. Find his age 3 years hence.
+Solution : Let A’s present age be ‘n’ years.
+According to the question,
+n + 15 = 5 (n – 5)
+=> n + 15 = 5 n – 25
+=> 4n = 40
+=> n = 10
+=> A’s present age = 10 years
+Therefore, A’s age 3 years hence = 10 + 3 = 13 years
+ 
+Question 2 : The product of the ages of A and B is 240. If twice the age of B is more than A’s age by 4 years, what was B’s age 2 years ago?
+Solution : Let A’s present age be x years. Then, B’s present age = 240 / x years
+So, according to question
+2 (240 / x ) – x = 4
+=> 480 – x2 = 4 x
+=> x2 + 4 x – 480 = 0
+=> (x + 24) (x – 20) = 0
+=> x = 20
+=> B’s present age = 240 / 20 = 12 years
+Thus, B’s age 2 years ago = 12 – 2 = 10 years
+ 
+Question 3 : The present age of a mother is 3 years more than three times the age of her daughter. Three years hence, mother’s age will be 10 years more than twice the age of 
+the daughter. Find the present age of the mother.
+Solution : Let the daughter’s present age be ‘n’ years.
+=> Mother’s present age = (3n + 3) years
+So, according to the question
+(3n + 3 + 3) = 2 (n + 3) + 10
+=> 3n + 6 = 2n + 16
+=> n = 10
+Hence, mother’s present age = (3n + 3) = ((3 x 10) + 3) years = 33 years
+ 
+Question 4 : The ratio of present ages of A and B is 6 : 7. Five years hence, this ratio would become 7 : 8. Find the present age of A and B.
+Solution : Let the common ratio be ‘n’.
+=> A’s present age = 6 n years
+=> B’s present age = 7 n years
+So, according to the question
+(6 n + 5) / (7 n + 5) = 7 / 8
+=> 48 n + 40 = 49 n + 35
+=> n = 5
+Thus, A’s present age = 6 n = 30 years and B’s present age = 7 n = 35 years
