@@ -1,0 +1,33 @@
+To convert a fraction to percentage, we multiply by 100 and add the “%” sign. For example, to express 1 / 5 in percentage, we simply multiply by 100, (1 / 5) x 100 = 20 %
+To convert a percentage to fraction, we simply divide by 100. For example, 25 % = 25 / 100 = 1 / 4
+Expenditure = Price x Consumption
+If price of an article increases by P %, the necessary reduction in consumption to avoid increase in expenditure = [( P / (100 + P) ) x 100] %
+If price of an article decreases by P %, the necessary increase in consumption to keep the same expenditure = [( P / (100 – P) ) x 100] %
+Population : If the population of a group/community/country/place(etc.) is currently P and if it increases by R % every year, then :
+Population after ‘n’ years = P x [1 + (R / 100)]n
+Population before ‘n’ years = P / [1 + (R / 100)]n
+Depreciation : If the price (or value) of an article is currently P and if it depreciates by R % every year, then:
+Price (or value) after ‘n’ years = P x [1 – (R / 100)]n
+Price (or value) before ‘n’ years = P / [1 – (R / 100)]n
+x % of y and y % of x are same. For example, 10 % of 100 and 100 % of 10 are same.
+A successive increase of a% and b% is equivalent to a net increase of a + b + ((a x b) / 100) %
+A successive decrease of a% and b% is equivalent to a net decrease of a + b – ((a x b) / 100) %
+An increase by n % and a successive decrease by n % is equal to an equivalent decrease of (n/10)2 %. For example, if the price of an article is increased by 10 %, and is then 
+successively decreased by 10 %, then this is equal to a decrease of (10/10)2 = 1 %
+
+## Problems
+
+Question: 25 % of a number is 8 less than one third of that number. Find the number.
+Solution : Let the number be n.
+=> (n / 3) – 25 % of n = 8
+=> (n / 3) – (n / 4) = 8
+=> n / 12 = 8
+=> n = 96
+Thus, 96 is the required number.
+
+Question : How much sugar (in KG) must be added to 50 KG of a 2 % sugar solution so as to make the concentration 10 % ?
+Solution : Sugar in initial solution = 2 % of 50 KG = 1 KG
+Let the sugar added be n KG.
+=> (1 + n) / (50 + n) = 10 / 100
+=> n = 40 / 9
+Therefore, 40 / 9 KG of sugar should be added.
